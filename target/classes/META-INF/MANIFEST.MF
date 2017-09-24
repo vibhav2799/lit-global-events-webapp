@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: global-events-webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: neo
+Implementation-Vendor-Id: com.ge
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/global-event
+ s-webapp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
